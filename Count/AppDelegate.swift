@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Count
+//  Count2
 //
-//  Created by 植田真梨 on 2020/04/29.
+//  Created by 植田真梨 on 2020/05/06.
 //  Copyright © 2020 植田真梨. All rights reserved.
 //
 
